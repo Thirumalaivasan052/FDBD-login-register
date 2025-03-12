@@ -1,0 +1,109 @@
+/* 
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #e3dddd;
+    background-size: cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+}
+
+body {
+    margin-bottom: 5px;
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 40px;
+    margin-right: 60px;
+    font-size: 20px;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 9px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #040404;
+    padding: 5px 20px;
+    border: 1.5px solid;
+    background: rgb(245, 238, 238);
+    border-radius: 12px;
+    transition: background-color 0.5s ease;
+}
+
+ul li a:hover {
+    background-color: rgb(228, 155, 19);
+    color: black;
+}
+
+ul li .active a {
+    background-color: rgb(63, 59, 59);
+    color: white;
+}
+
+.logo {
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+}
+
+
+.myh1 {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30px;
+    background-color: grey;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+
+.btn, .btn2, #btn2 {
+    background-color: rgb(0, 157, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover, .btn2:hover, #btn2:hover {
+    background-color: rgb(0, 120, 200);
+}
+
+.btn2 a, #btn2 a {
+    text-decoration: none;
+    color: white;
+}
+
+
+[class^='allfood'] {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 20px;
+    flex-wrap: wrap;
+    gap: 10vh;
+}
+
+
+#footer, p {
+    background-color: #040404a5;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
+
+.mybuttonfooter {
+    background-color: green;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+} */
